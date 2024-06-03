@@ -1,0 +1,31 @@
+div{
+    width: 1500px;
+    height: 500px;
+    background-color: blueviolet;
+    animation-name: demoanimation;
+    animation-duration: 5s;
+    text-align: center;
+    background-image: url(1.jpg) ;    
+}
+@keyframes demoanimation {
+   10%{
+    background-color: black;
+    border-radius: 300px;
+   }
+   30%{
+    background-color: blue;
+   }
+   50%{
+    background-color: aqua;
+    border-radius: 150px;
+   }
+   70%{
+    background-color: brown;
+    
+   }
+   90%{
+    background-color: green;
+    border-radius: 100px;
+   }
+    
+}

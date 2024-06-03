@@ -1,0 +1,38 @@
+#d1{
+    color: black;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    
+}
+#d2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+#d3{
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+#d4{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+#d5{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+#maindiv{
+    background-color: beige;
+    height: 190px;
+    display: flex;
+    margin-left: -10px;
+}
